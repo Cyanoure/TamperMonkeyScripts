@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cyan Krunker Cheat Kit
 // @namespace    https://kozelkaricsi.hu/
-// @version      0.2.2
+// @version      0.2.3
 // @description  Krunker cheat kit
 // @author       Cyanoure
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?.+)$/
