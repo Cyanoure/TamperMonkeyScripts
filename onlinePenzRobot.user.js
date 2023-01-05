@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         onlinePenzRobot
 // @namespace    https://kozelkaricsi.hu/
-// @version      0.1
+// @version      0.1.1
 // @description  try to take over the world!
 // @author       Cyanoure
 // @match        *://www.onlinepenztarca.hu/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=onlinepenztarca.hu
 // @grant        none
+// @downloadURL  https://github.com/Cyanoure/TamperMonkeyScripts/raw/main/onlinePenzRobot.user.js
+// @updateURL    https://github.com/Cyanoure/TamperMonkeyScripts/raw/main/onlinePenzRobot.user.js
 // ==/UserScript==
 
 (function() {
