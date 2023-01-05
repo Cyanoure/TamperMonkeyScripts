@@ -12,6 +12,7 @@
 // @updateURL    https://github.com/Cyanoure/TamperMonkeyScripts/raw/main/CyanKrunkerCheatKit.user.js
 // ==/UserScript==
 (function() {
+    // test
     var THREE2 = null;
     /*$.get("https://cdnjs.cloudflare.com/ajax/libs/three.js/r124/three.min.js",function(res){
         eval(res);
