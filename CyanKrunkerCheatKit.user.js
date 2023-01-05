@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Cyan Krunker Cheat Kit
-// @namespace    https://www.cyanoure.ga/
-// @version      0.2
+// @namespace    https://kozelkaricsi.hu/
+// @version      0.2.1
 // @description  Krunker cheat kit
 // @author       Cyanoure
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?.+)$/
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @run-at document-start
+// @downloadURL = https://github.com/Cyanoure/TamperMonkeyScripts/raw/main/CyanKrunkerCheatKit.user.js
+// @updateURL = https://github.com/Cyanoure/TamperMonkeyScripts/raw/main/CyanKrunkerCheatKit.user.js
 // ==/UserScript==
 (function() {
     var THREE2 = null;
